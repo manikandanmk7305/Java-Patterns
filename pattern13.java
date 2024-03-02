@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5e4154fbb449b7442ac783c4c94bfbef2b5e0ab0
 13.Write a program to print the following pattern
 Example 1:
 
