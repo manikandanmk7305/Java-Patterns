@@ -1,4 +1,4 @@
-14.Write a program to print the following pattern
+14.Write a java program to print the following pattern
 Example 1:
 
 Input: 
